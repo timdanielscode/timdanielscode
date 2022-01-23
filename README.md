@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🤔 I’m looking for help with php interfaces
 - 💬 Ask me about IndependentPHP
-- ⚡ Fun fact: I can do a KICKFLIP
+- ⚡ Fun fact: I can kickflip
 
 ## Skills & Experience
 <img align="left" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
@@ -19,6 +19,6 @@
 <img align="left" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
 <img align="left" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" />
-<img align="left" width="40px" height="30px" src="https://thumbnail.imgbin.com/20/3/19/imgbin-jquery-web-development-ajax-event-php-ajax-3VsUk04FvFf0jvNPXUeACp0yG_t.jpg" />
-<img align="left" width="40px" height="30px" src="https://spng.pngfind.com/pngs/s/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png" />
+<img align="left" width="40px" height="30px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
+<img align="left" width="40px" height="30px" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
 <img align="left" width="40px" height="30px" src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png" />
