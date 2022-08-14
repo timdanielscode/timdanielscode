@@ -1,10 +1,9 @@
 ### Hi there, I'm Tim Daniëls 👋
 
-- 🔭 I’m currently working on [independentphp.com](https://independentphp.com)
-- 🌱 I’m currently learning WebDesign
+- 🔭 I’m currently working on IndyPHP
 - 👯 I’m looking to collaborate with other programmers
 - 🤔 I’m looking for help with php interfaces
-- 💬 Ask me about IndependentPHP
+- 💬 Ask me about IndyPHP
 - ⚡ Fun fact: I can kickflip
 
 ## Skills & Experience
